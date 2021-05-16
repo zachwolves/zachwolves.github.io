@@ -1,6 +1,3 @@
-.contain {
-    flex: content; align-items: center
-    ;
-    align-content: center;
-
+div.contain {
+    align-content: center
 }
